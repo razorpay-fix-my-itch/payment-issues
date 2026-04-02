@@ -1,5 +1,9 @@
-# Payment Issues — Fix My Itch by Razorpay
+# payment issues
 
-https://razorpay.com/m/fix-my-itch/
+Problems worth solving in the **payment issues** space in India.
 
-Problems worth solving in the **Payment Issues** space in India.
+Source: [razorpay.com/m/fix-my-itch](https://razorpay.com/m/fix-my-itch/)
+
+## Problems
+
+_Problem details coming soon. Check the [Fix My Itch website](https://razorpay.com/m/fix-my-itch/) for the full list._
